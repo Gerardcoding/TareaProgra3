@@ -1,0 +1,7 @@
+C:\Users\Ryzen 3200g\source\repos\TareaClase2\TareaClase2\bin\Debug\TareaClase2.exe.config
+C:\Users\Ryzen 3200g\source\repos\TareaClase2\TareaClase2\bin\Debug\TareaClase2.exe
+C:\Users\Ryzen 3200g\source\repos\TareaClase2\TareaClase2\bin\Debug\TareaClase2.pdb
+C:\Users\Ryzen 3200g\source\repos\TareaClase2\TareaClase2\obj\Debug\TareaClase2.csproj.AssemblyReference.cache
+C:\Users\Ryzen 3200g\source\repos\TareaClase2\TareaClase2\obj\Debug\TareaClase2.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen 3200g\source\repos\TareaClase2\TareaClase2\obj\Debug\TareaClase2.exe
+C:\Users\Ryzen 3200g\source\repos\TareaClase2\TareaClase2\obj\Debug\TareaClase2.pdb
